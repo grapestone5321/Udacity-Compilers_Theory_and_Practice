@@ -4,6 +4,8 @@ Udacity-Compilers_Theory_and_Practice
 
 -------
 
+## Part 1
+
 ### LESSON 1
 P1L1: Introduction to Compilers
 
@@ -22,6 +24,8 @@ P1L5: Recursive Descent Parsing
 ### LESSON 6
 P1L6: Top Down Parsing: LL Parsing
 
+## Part 2
+
 ### LESSON 7
 P2L1: Semantic Analysis
 
@@ -30,6 +34,9 @@ P2L2: IR Code Generation
 
 ### LESSON 9
 P2L3: Control Flow Graphs
+
+
+## Part 3
 
 ### LESSON 10
 P3L1: Liveness Analysis
@@ -42,6 +49,9 @@ P3L3: Code Optimizations
 
 ### LESSON 13
 P3L4: Instruction Selection
+
+
+## Part 4
 
 ### LESSON 14
 P4L1: Procedure Abstraction
